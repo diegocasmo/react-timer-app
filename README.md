@@ -1,4 +1,4 @@
-# Create a Simple React <Timer/> Component ⌛
+# Create a Simple React &lt;Timer/&gt; Component ⌛
 
 Demo project to accompany the ["Create a Simple React &lt;Timer/&gt; Component ⌛" blog post](https://dev.to/diegocasmo/create-a-simple-react-timer-component-jc2).
 
