@@ -1,6 +1,6 @@
 # Create a Simple React <Timer/> Component ⌛
 
-Demo project to accompany the "Create a Simple React <Timer/> Component ⌛" blog post.
+Demo project to accompany the ["Create a Simple React <Timer/> Component ⌛" blog post](https://dev.to/diegocasmo/create-a-simple-react-timer-component-jc2).
 
 ## Available Scripts
 
