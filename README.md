@@ -1,12 +1,9 @@
 # Create a Simple React Timer Component ⌛
 
-Demo project to accompany the ["Create a Simple React Timer Component ⌛" blog post](https://dev.to/diegocasmo/create-a-simple-react-timer-component-jc2).
+Demo project to accompany the ["Create a Simple React <Timer/> Component" blog post](https://diegocasmo.github.io/2020-10-18-create-a-simple-react-timer-component/).
 
-## Available Scripts
+## Usage
 
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Run `yarn install` to install the project dependencies
+- Run `yarn start` to run the app in the development mode
+  - Open [http://localhost:3000](http://localhost:3000) to view it in the browser
